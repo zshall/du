@@ -1,0 +1,17 @@
+body {
+        background: black;
+    }
+    .center {
+        margin: 0 auto;
+        background-color: black;
+        padding: 16px;
+    }
+    #header {
+        width: 720px;
+        height: 464px;
+    }
+    #example {
+        width: 720px;
+        height: 384px;
+        overflow: hidden;
+    }
